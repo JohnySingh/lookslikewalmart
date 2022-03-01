@@ -1,0 +1,31 @@
+.div1{
+    background-color: rgb(80, 80, 255);
+    text-align: center;
+    color: azure;
+    height: 100px;
+    padding-top: 30px;
+   font-family: 'Lucida Sans';
+   font-size: xx-large;
+}
+
+
+.nav {
+  justify-content: space-between; 
+  text-align: center;
+  flex: content;
+ }
+ .div3 h4{
+     text-align: center;
+ }
+
+ 
+ .col-5 img{
+text-align: center;
+margin-left: 35%;
+border-radius: 100%;
+}
+.div5{
+    background-color: black;
+    color: beige;
+   text-align: center; 
+}
